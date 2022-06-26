@@ -6,7 +6,7 @@ puts "Norman".concat (" Ablaza")
 first_name1 = "Norman "
 last_name1 = " Ablaza"
 
-puts first_name.concat( last_name)
+puts first_name1.concat( last_name1)
 
 
 puts"__________________"

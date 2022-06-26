@@ -48,3 +48,4 @@ age8=38.5121326
 puts age8
 puts age8.to_i
 puts age8.to_i.class
+
