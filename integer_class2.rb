@@ -1,4 +1,4 @@
-#-----------Integer Methods----------------
+ #-----------Integer Methods----------------
 #even - returns true if the integer value is even
 age1=30
 puts age1

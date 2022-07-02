@@ -1,4 +1,4 @@
-puts"__________________"
+ puts"__________________"
 puts "concat sample"
 #concat - appends new string value with another string
 puts "Norman".concat (" Ablaza")

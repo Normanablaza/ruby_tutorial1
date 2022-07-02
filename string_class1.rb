@@ -1,4 +1,4 @@
-puts "string sample"
+ puts "string sample"
 #String
 first_name = "Norman"
 midle_name = "Panlaqui"

@@ -1,4 +1,4 @@
-age = 18
+ age = 18
 puts age
 puts age.class
 

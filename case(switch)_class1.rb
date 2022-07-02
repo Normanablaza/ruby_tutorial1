@@ -1,4 +1,4 @@
-#case switch conditional execution
+ #case switch conditional execution
 grade = "a-"
 
 case (grade.capitalize)

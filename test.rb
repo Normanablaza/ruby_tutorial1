@@ -3,5 +3,5 @@ min_val = a.min
 max_val = a.max
 
 puts min_val
-puts max_val
+puts max_val 
 

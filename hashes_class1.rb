@@ -1,4 +1,4 @@
-grades = { "Jhon" =>3.8, "Julie" => 3.9, "Danny" => 3.6}
+ grades = { "Jhon" =>3.8, "Julie" => 3.9, "Danny" => 3.6}
 puts grades ["Jhon"]
 puts grades ["Julie"]
 puts grades ["Danny"]
